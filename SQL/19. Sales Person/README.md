@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/sales-person/?envType=study-plan&id=sql-i">19. Sales Person

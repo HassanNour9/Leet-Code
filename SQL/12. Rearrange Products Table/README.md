@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/rearrange-products-table/?envType=study-plan&id=sql-i">12. Rearrange Products Table

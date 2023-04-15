@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/daily-leads-and-partners/?envType=study-plan&id=sql-i">21. Daily Leads and Partners

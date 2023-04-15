@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/capital-gainloss/?envType=study-plan&id=sql-i">27.  Capital Gain or Loss

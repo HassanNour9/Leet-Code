@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/find-total-time-spent-by-each-employee/?envType=study-plan&id=sql-i">26. Find Total Time Spent by Each Employee

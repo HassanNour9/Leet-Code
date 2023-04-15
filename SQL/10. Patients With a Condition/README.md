@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/patients-with-a-condition/?envType=study-plan&id=sql-i">10. Patients With a Condition

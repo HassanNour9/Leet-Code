@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/game-play-analysis-i/?envType=study-plan&id=sql-i">24. Game Play Analysis I

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan&id=sql-i">20. User Activity for the Past 30 Days I

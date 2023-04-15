@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/second-highest-salary/?envType=study-plan&id=sql-i">14. Second Highest Salary
